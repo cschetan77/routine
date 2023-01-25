@@ -1,0 +1,18 @@
+.list {
+    margin: 0;
+}
+
+.list_item {
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav {
+    margin-top: 0;
+}
+
+.header {
+    background: rgb(152, 233, 170);
+    
+}
