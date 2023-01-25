@@ -1,0 +1,31 @@
+.list {
+    display: inline-block;
+    margin: 0;
+    
+}
+
+.list_item {
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navigation {
+    width: 100%;
+    text-align: left;
+    background: rgb(152, 233, 170);
+}
+
+.search_box {
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.search_box input:hover {
+    border: 2px solid rgb(187, 143, 245);
+}
+
+.search_box label {
+    padding-right: 10px;
+}
+
