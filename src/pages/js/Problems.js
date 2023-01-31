@@ -1,6 +1,12 @@
+import { Fragment } from "react";
+import ProblemList from "../../components/js/ProblemList";
+
 const Problems = () => {
     return (
-        <h1>Problems page</h1>
+        <Fragment>
+            <h1>Problems page</h1>
+        <ProblemList />
+        </Fragment>
     );
 };
 

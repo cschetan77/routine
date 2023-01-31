@@ -1,7 +1,6 @@
 import { Fragment } from "react";
 import classes from '../css/Welcome.module.css';
 import Button from "../../components/js/Button";
-import OfficeWork from "./OfficeWork";
 import { useNavigate } from "react-router-dom";
 
 const Welcome = () => {
